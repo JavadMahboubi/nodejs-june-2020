@@ -45,4 +45,4 @@ Visual Studio Code is a simple, code-centric integrated development environment 
 *NOTE: Full Stack developer: Someone who is familiar with both kinds of development, and can work on a website from start to finish!*
 
 ## Let's learn more about the internet
-[<- Home](README.md)
+[<- Home](README.md) - [Internet ->](internet.md)
