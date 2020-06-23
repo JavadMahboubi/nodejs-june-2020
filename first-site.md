@@ -102,7 +102,7 @@ To be able to publish it we need a free hosting and a domain. For this we will u
 4. (Optional) Tailor your experience. Fill out the details and click "Submit".
 5. Verify email and log into your [GitHub Account](https://github.com/login).
 6. Create a new repository called `my-first-site` and click "Create Repository".
-7. In Visual Studio Code, open the [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and make sure that you the default shell is bash. ![Integrated Terminal](resources/images/first-site/terminal.png)
+7. In Visual Studio Code, open the [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal) and make sure that you the default shell is bash. ![Integrated Terminal](resources/images/my-first-site/terminal.png)
      * _For Windows Users_, make sure the Default Shell is set to bash or Git Bash. 
        * Click the dropdown in the top right of the Terminal and click Select Default Shell.
        * Select Git Bash as the default shell. ![Terminal Shell Selector](resources/images/my-first-site/terminal2.png)
@@ -124,7 +124,7 @@ To be able to publish it we need a free hosting and a domain. For this we will u
 12. Go to the repository page and refresh. You should see the files that you created. ![GitHub my-first-website repository](resources/images/my-first-site/github2.png)
 13. Under your repository name, click "Settings". ![Repository settings button](https://help.github.com/assets/images/help/repository/repo-actions-settings.png)
 14. Use the "Select" source drop-down menu to select "master branch" folder as your GitHub Pages publishing source. ![Select master as source](resources/images/my-first-site/github3.png)
-15. Click the link in the GitHub pages section. ![Link where site is ready to published](resources/images/first-site/github4.png)
+15. Click the link in the GitHub pages section. ![Link where site is ready to published](resources/images/my-first-site/github4.png)
 16. **Congratulations, you have your first site online!!**
 ![Congratulations](resources/images/my-first-site/congratulations.gif)
 
